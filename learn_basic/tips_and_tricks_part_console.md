@@ -16,8 +16,7 @@
 ##快捷键打开审查元素模式
 使用`Ctrl` + `Shift` + `C` 或 `Cmd` + `Shift` + `C`可以在DevTools中快速打开审查元素模式。(译注：可能会与系统快捷键冲突)
 
-![](https://developer.chrome.com/devtools/docs/tips-and-tricks/image_10.pn
-g)
+![](https://developer.chrome.com/devtools/docs/tips-and-tricks/image_10.png)
 
 [更多：使用控制台](./using_console.md)
 
